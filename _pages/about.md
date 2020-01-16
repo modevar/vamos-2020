@@ -1,17 +1,18 @@
 ---
-permalink: /
-title: "Second International Workshop on Languages for Modelling Variability (MODEVAR 2020)<br><span style=\"font-size: 60%;\">Magdeburg, Germany. Feb 4th 2020</span>"
+title: 'Second International Workshop on Languages for Modelling Variability (MODEVAR
+  2020)<br><span style="font-size: 60%;">Magdeburg, Germany. Feb 4th 2020</span>'
+permalink: "/"
 header:
-  overlay_image: /assets/modevar/modevar-2020-background.jpg
+  overlay_image: "/assets/modevar/modevar-2020-background.jpg"
   overlay_filter: 0.3
-  caption: "Photo: [Pixabay](https://pixabay.com/photos/germany-magdeburg-dom-architecture-3912866/)"
+  caption: 'Photo: [Pixabay](https://pixabay.com/photos/germany-magdeburg-dom-architecture-3912866/)'
 author_profile: true
 classes: wide
-redirect_from: 
-  - /about/
-  - /about.html
+redirect_from:
+- "/about/"
+- "/about.html"
 ---
- 
+
 **Second International Workshop on Languages for Modelling Variability (MODEVAR 2020)**
 *colocated with [VaMoS 2020](https://vamos2020.dbse.iti.cs.ovgu.de/index.html)*
 

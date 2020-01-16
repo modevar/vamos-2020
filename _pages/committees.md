@@ -1,12 +1,11 @@
 ---
-permalink: /committees/
-title: "Committees"
+title: Committees
+permalink: "/committees/"
 author_profile: true
 classes: wide
-redirect_from: 
-  - /organizers/  
+redirect_from:
+- "/organizers/"
 ---
-
 
 ## Organizing Committee
 * David Benavides, University of Sevilla, Spain
