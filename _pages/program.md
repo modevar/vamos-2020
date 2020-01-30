@@ -19,7 +19,7 @@ The event will take place in room E037 of the Faculty of Computer Science of the
 | 09:45-10:15 | Variability modelling and analysis, a historical perspective | David Benavides |
 | 10:15-10:45 | The future of an automated analysis of feature models collaborative framework | José A. Galindo |
 | 10:45-11:15 | *COFFEE BREAK* | |
-| 11:15-12:45 | Early draft of a language | Thomas Thüm and Dominik Engelhardt |
+| 11:15-12:45 | Towards a Universal Variability Language: Design Tradeoffs | Thomas Thüm and Dominik Engelhardt |
 | 12:45-14:00 | *LUNCH BREAK* (not supported by the workshop) | |
 | 14:00-17:00 | Working groups and open discussions |
 
