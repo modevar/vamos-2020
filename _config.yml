@@ -1,5 +1,5 @@
 ---
-title: MODEVAR 2020
+title: MODEVAR@VaMoS 2020
 timezone: UTC
 collections:
   pages:
@@ -37,14 +37,14 @@ minimal_mistakes_skin: air
 locale: en-US
 title_separator: "-"
 name: International Workshop on Languages for Modelling Variability (MODEVAR)
-description: Website of the First International Workshop on Languages for Modelling
+description: Website of the Second International Workshop on Languages for Modelling
   Variability
-url: https://modevar.github.io
+url: https://modevar.github.io/2020-1
 baseurl: 
-repository: modevar/modevar.github.io
+repository: modevar/2020-1
 teaser: 
 logo: 
-masthead_title: MODEVAR <span style="color:#0092ca;">2020</span>
+masthead_title: MODEVAR<span style="color:#0092ca;">@VaMoS 2020</span>
 words_per_minute: 200
 comments:
   provider: 
